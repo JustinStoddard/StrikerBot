@@ -1,0 +1,12 @@
+{
+  "name": "striker",
+  "version": "1.0.0",
+  "description": "My name is Striker. Personal AI assistant to General Vex",
+  "main": "bot.js",
+  "author": "VEX Justin",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "npm": "^6.2.0",
+    "winston": "^3.0.0"
+  }
+}
